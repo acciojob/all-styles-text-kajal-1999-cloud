@@ -1,7 +1,7 @@
 
 /* Your CSS Code he
 re. */
-.main div{
+.main {
 	border:1px solid ;
 	width: 200px;
 	background-color: rgb(128, 0, 128);
@@ -14,5 +14,5 @@ re. */
 	font-size: 20px;
 	color: white;
 	text-decoration: underline;
-	
+}
 }
